@@ -4,7 +4,7 @@ show work [spaces]: key(win-tab)
 new work [space]: key(win-ctrl-d)
 close work space: key(win-ctrl-f4)
 next work [space] [<number>]: user.workspace_next(number or 1)
-previous work [space] [<number>]: user.workspace_previous(number or 1)
+prev work [space] [<number>]: user.workspace_previous(number or 1)
 
 [go] work [space] <number>: user.workspace_go(number)
 
